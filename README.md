@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brandon (@pizzaemoji)
 - 👀 I’m interested in HTML, SQL, Swift
 - 🌱 I’m currently learning SQL and Swift
-- 🏰 I also like to watercolor, travel, and watch movies.
+- 🏰 I also like to watercolor, read, and watch movies.
 - 📫 brandon@pizzaemoji.net
 <!-- Updated 10:49 PM August 26, 2024 -->
 <!---
