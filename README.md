@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Brandon (@pizzaemoji)
-- 👀 I’m interested in HTML, SQL, Swift
-- 🌱 I’m currently learning SQL and Swift
-- 🏰 I also like to watercolor, read, and watch movies.
-- 📫 brandon@pizzaemoji.net
+Hi, I'm Brandon. Check out pizzaemoji.net for updated contact and info...
 <!-- Updated 10:49 PM August 26, 2024 -->
 <!---
 pizzaemoji/pizzaemoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
